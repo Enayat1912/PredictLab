@@ -24,7 +24,7 @@ from sklearn.metrics import (
 # -----------------------------
 # Streamlit setup
 # -----------------------------
-st.set_page_config(page_title="CSV ML Dashboard", page_icon="📊", layout="wide")
+st.set_page_config(page_title="ML Predict Lab", page_icon="📊", layout="wide")
 st.title("📊 Upload-a-CSV ML Dashboard — Train, Evaluate, Predict")
 
 st.markdown(
